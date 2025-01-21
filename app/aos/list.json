@@ -1,0 +1,26 @@
+{ 
+    "liar": 
+    {
+        "logo": "https://cornchipcc.github.io/app/logo/liar.jpg",
+        "title": "라이어게임",
+        "titleKR": "라이어게임",
+        "desc": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요",
+        "descKR": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요"
+    },
+    "nationquiz":
+    {
+        "logo": "https://cornchipcc.github.io/app/logo/nationquiz.jpg",
+        "title": "Guess worlds - flag quiz",
+        "titleKR": "나라 맞추기 퀴즈 - 수도, 깃발, 통화기호 등등",
+        "desc": "You can take a quiz on countries around the world. Guess the capital, national flag, currency code, and more. How many countries do you know?",
+        "descKR": "세계의 나라들을 퀴즈로 풀 수 있습니다. 수도, 국기, 통화코드 등을 맞춰 보세요. 당신은 얼마나 많은 국가를 알고있나요?"
+    },
+    "wordsquiz":
+    {
+        "logo": "https://cornchipcc.github.io/app/logo/wordsquiz.jpg",
+        "title": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
+        "titleKR": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
+        "desc": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!",
+        "descKR": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!"
+    }
+}
