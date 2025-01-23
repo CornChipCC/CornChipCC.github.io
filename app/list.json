@@ -1,32 +1,32 @@
 { 
-    "liar": 
+    "Liar": 
     {
-        "logo": "https://cornchipcc.github.io/app/logo/liar.jpg",
-        "title": "라이어게임",
-        "titleKR": "라이어게임",
-        "desc": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요",
-        "descKR": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요",
-        "aosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.liar",
-        "iosUrl": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B4%EC%96%B4%EA%B2%8C%EC%9E%84-who-is-liar/id6612036952"
+        "Logo": "https://cornchipcc.github.io/app/logo/liar.jpg",
+        "Title": "라이어게임",
+        "TitleKR": "라이어게임",
+        "Desc": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요",
+        "DescKR": "특정 1인, 몇명만 다른 제시어를 받거나 제시어를 받지 않으며 라이어가 됩니다. 라이어가 누구인지 맞춰보세요",
+        "AosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.liar",
+        "IosUrl": "https://apps.apple.com/kr/app/%EB%9D%BC%EC%9D%B4%EC%96%B4%EA%B2%8C%EC%9E%84-who-is-liar/id6612036952"
     },
     "nationquiz":
     {
-        "logo": "https://cornchipcc.github.io/app/logo/nationquiz.jpg",
-        "title": "Guess worlds - flag quiz",
-        "titleKR": "나라 맞추기 퀴즈 - 수도, 깃발, 통화기호 등등",
-        "desc": "You can take a quiz on countries around the world. Guess the capital, national flag, currency code, and more. How many countries do you know?",
-        "descKR": "세계의 나라들을 퀴즈로 풀 수 있습니다. 수도, 국기, 통화코드 등을 맞춰 보세요. 당신은 얼마나 많은 국가를 알고있나요?",
-        "aosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.nationquiz",
-        "iosUrl": ""
+        "Logo": "https://cornchipcc.github.io/app/logo/nationquiz.jpg",
+        "Title": "Guess worlds - flag quiz",
+        "TitleKR": "나라 맞추기 퀴즈 - 수도, 깃발, 통화기호 등등",
+        "Desc": "You can take a quiz on countries around the world. Guess the capital, national flag, currency code, and more. How many countries do you know?",
+        "DescKR": "세계의 나라들을 퀴즈로 풀 수 있습니다. 수도, 국기, 통화코드 등을 맞춰 보세요. 당신은 얼마나 많은 국가를 알고있나요?",
+        "AosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.nationquiz",
+        "IosUrl": ""
     },
     "wordsquiz":
     {
-        "logo": "https://cornchipcc.github.io/app/logo/wordsquiz.jpg",
-        "title": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
-        "titleKR": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
-        "desc": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!",
-        "descKR": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!",
-        "aosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.wordquiz",
-        "iosUrl": "https://apps.apple.com/kr/app/%EC%A2%85%ED%95%A9%EB%8B%A8%EC%96%B4%EA%B2%8C%EC%9E%84-%EC%8A%A4%ED%94%BC%EB%93%9C%ED%80%B4%EC%A6%88-%EC%B4%88%EC%84%B1%ED%80%B4%EC%A6%88-%EC%86%8D%EB%8B%B4%ED%80%B4%EC%A6%88-%EC%9D%B4%EC%96%B4%EB%A7%90%ED%95%98%EA%B8%B0/id6739183007"
+        "Logo": "https://cornchipcc.github.io/app/logo/wordsquiz.jpg",
+        "Title": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
+        "TitleKR": "종합단어게임 - 스피드퀴즈,초성퀴즈,속담퀴즈,이어말하기",
+        "Desc": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!",
+        "DescKR": "스피드 퀴즈, 초성퀴즈, 속담퀴즈, 이어말하기를 앱 하나로 한번에 할 수 있습니다. 다같이 한번 즐겨보세요!",
+        "AosUrl": "https://play.google.com/store/apps/details?id=com.cornchip.wordquiz",
+        "IosUrl": "https://apps.apple.com/kr/app/%EC%A2%85%ED%95%A9%EB%8B%A8%EC%96%B4%EA%B2%8C%EC%9E%84-%EC%8A%A4%ED%94%BC%EB%93%9C%ED%80%B4%EC%A6%88-%EC%B4%88%EC%84%B1%ED%80%B4%EC%A6%88-%EC%86%8D%EB%8B%B4%ED%80%B4%EC%A6%88-%EC%9D%B4%EC%96%B4%EB%A7%90%ED%95%98%EA%B8%B0/id6739183007"
     }
 }
