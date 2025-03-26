@@ -1,0 +1,23 @@
+[
+    {
+        "Menu": "Animal|동물",
+        "Items":[
+            {
+                "Name" : "호랑이|Tiger",
+                "Url": "https://cornchipcc.github.io/charades/menu/animal/tiger.jpg"
+            },
+            {
+                "Name" : "고양이|Cat",
+                "Url": "https://cornchipcc.github.io/charades/menu/animal/cat.jpg"
+            },
+            {
+                "Name" : "표범|Leopard",
+                "Url": "https://cornchipcc.github.io/charades/menu/animal/leopard.jpg"
+            },
+            {
+                "Name" : "사자|Lion",
+                "Url": "https://cornchipcc.github.io/charades/menu/animal/lion.jpg"
+            }
+        ]
+    }
+]
