@@ -6,19 +6,19 @@
             "Items":[
                 {
                     "Title" : "Tiger|호랑이",
-                    "filePath": "/animal/tiger.jpg"
+                    "FilePath": "/animal/tiger.jpg"
                 },
                 {
                     "Title" : "Cat|고양이",
-                    "filePath": "/animal/cat.jpg"
+                    "FilePath": "/animal/cat.jpg"
                 },
                 {
                     "Title" : "Leopard|표범",
-                    "filePath": "/animal/leopard.jpg"
+                    "FilePath": "/animal/leopard.jpg"
                 },
                 {
                     "Title" : "Lion|사자",
-                    "filePath": "/animal/lion.jpg"
+                    "FilePath": "/animal/lion.jpg"
                 }
             ]
         }
