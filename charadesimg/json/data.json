@@ -1,23 +1,26 @@
-[
-    {
-        "Menu": "Animal|동물",
-        "Items":[
-            {
-                "Name" : "호랑이|Tiger",
-                "Url": "https://cornchipcc.github.io/charades/menu/animal/tiger.jpg"
-            },
-            {
-                "Name" : "고양이|Cat",
-                "Url": "https://cornchipcc.github.io/charades/menu/animal/cat.jpg"
-            },
-            {
-                "Name" : "표범|Leopard",
-                "Url": "https://cornchipcc.github.io/charades/menu/animal/leopard.jpg"
-            },
-            {
-                "Name" : "사자|Lion",
-                "Url": "https://cornchipcc.github.io/charades/menu/animal/lion.jpg"
-            }
-        ]
-    }
-]
+{
+    "BaseUrl": "https://cornchipcc.github.io/charadesimg/menu",
+    "Category" :[
+        {
+            "Menu": "Animal|동물",
+            "Items":[
+                {
+                    "Title" : "Tiger|호랑이",
+                    "Url": "/animal/tiger.jpg"
+                },
+                {
+                    "Title" : "Cat|고양이",
+                    "Url": "/animal/cat.jpg"
+                },
+                {
+                    "Title" : "Leopard|표범",
+                    "Url": "/animal/leopard.jpg"
+                },
+                {
+                    "Title" : "Lion|사자",
+                    "Url": "/animal/lion.jpg"
+                }
+            ]
+        }
+    ]
+}
