@@ -2,23 +2,29 @@
     "BaseUrl": "https://cornchipcc.github.io/charadesimg/images",
     "Categories" :[
         {
-            "Menu": "Animal|동물",
+            "Kr": "동물",
+            "En": "Animal",
+            "Folder": "animal",
             "Items":[
                 {
-                    "Title" : "Tiger|호랑이",
-                    "FilePath": "/animal/tiger.jpg"
+                    "Kr" : "호랑이",
+                    "En" : "Tiger",
+                    "FileName": "/tiger.jpg"
                 },
                 {
-                    "Title" : "Cat|고양이",
-                    "FilePath": "/animal/cat.jpg"
+                    "Kr": "고양이",
+                    "En" : "Cat",
+                    "FileName": "/cat.jpg"
                 },
                 {
-                    "Title" : "Leopard|표범",
-                    "FilePath": "/animal/leopard.jpg"
+                    "Kr" : "표범",
+                    "En" : "Leopard",
+                    "FileName": "/leopard.jpg"
                 },
                 {
-                    "Title" : "Lion|사자",
-                    "FilePath": "/animal/lion.jpg"
+                    "Kr" : "사자",
+                    "En" : "Lion",
+                    "FileName": "/lion.jpg"
                 }
             ]
         }
